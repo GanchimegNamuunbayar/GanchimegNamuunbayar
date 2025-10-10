@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Namuuka. I'm master 1 student in GSIS, Tohoku university. I'm all about learning new things and make them alive!
+
+- 🔭 I’m currently working on LLM web app in Start-Up company as a intern
+- My research theme is ゲノムデータ解析を用いた精神疾患の発症メカニズムの解明
+- 🌱 I’m currently learning 統計検定準1級
 <!--
 **GanchimegNamuunbayar/GanchimegNamuunbayar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
