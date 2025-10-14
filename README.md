@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Namuunbayar Ganchimeg
 
-🎓 **MSc student in GSIS, Tohoku University** | 🧬 Exploring the intersection of **DNA methylation, gene expression, and neuroscience**
+🎓 **MSc student in GSIS, Tohoku University** 
+🧬 Exploring the intersection of **DNA methylation, gene expression, and neuroscience**
 💻 Passionate about **data science**, **machine learning**, and **open-source research tools**
 
 ---
