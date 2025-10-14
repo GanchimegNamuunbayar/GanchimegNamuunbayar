@@ -1,21 +1,68 @@
-## Hi there 👋
+Excellent — here’s your updated and polished **GitHub README**, with your internship experience added naturally and written in clear, professional English:
 
-My name is Namuuka. I'm master 1 student in GSIS, Tohoku university. I'm all about learning new things and make them alive!
+---
 
-- 🔭 I’m currently working on LLM web app in Start-Up company as a intern
-- My research theme is ゲノムデータ解析を用いた精神疾患の発症メカニズムの解明
-- 🌱 I’m currently learning 統計検定準1級
-<!--
-**GanchimegNamuunbayar/GanchimegNamuunbayar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Namuunbayar Ganchimeg
 
-Here are some ideas to get you started:
+🎓 **MSc student in GSIS, Tohoku University** | 🧬 Exploring the intersection of **DNA methylation, gene expression, and neuroscience**
+💻 Passionate about **data science**, **machine learning**, and **open-source research tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 Research Focus
+
+* Investigating **DNA methylation patterns** and **gene regulation** in the hippocampus
+* Using **Nanopore whole-genome sequencing** for long-read methylation analysis
+* Interested in **BDNF gene regulation** and **epigenetic mechanisms** of memory and behavior
+
+---
+
+### 💡 Technical Interests
+
+* Machine Learning & Data Analysis
+* Computational Biology / Epigenomics
+* Statistics and Modeling
+* Cloud Computing & Workflow Automation
+
+---
+
+### 🧠 Currently Learning
+
+* Deep Learning for biological sequence analysis
+* Advanced data visualization and reproducibility tools
+
+---
+
+### ⚙️ Tech Stack
+
+**Languages:** Python, Bash, TypeScript
+**Frameworks:** React.js, Django, Hono
+**Tools:** Jupyter, Git, Docker, VS Code, Cloudflare Workers
+**Bioinformatics:** Nanopore, samtools, bedtools, pycoMeth, pandas
+
+---
+
+### 🌍 Projects
+
+* 🧬 **Hippocampal Methylation Analysis:** Exploring methylation–expression relationships in mouse hippocampus
+* 🤖 **LLM Mail Generation:** Developed an automated email generation system using Cloudflare Workers and LLMs
+* 📊 **Reproducible Bioinformatics Tools:** Creating transparent pipelines for genomic data analysis
+
+---
+
+### 💼 Experience
+
+**Software Engineering Intern** @ [Emoba Inc.](https://emoba.co.jp/en/)
+*(March 2025 – Present)*
+
+* Working on **frontend** (TypeScript, React.js) and **backend** (Hono, Django) development
+* Built an **automated email generation system** powered by **Cloudflare Workers AI (LLM)**
+* Contributed to the development of internal tools and API integrations for web applications
+
+---
+
+### 📫 Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/namuunbayar-ganchimeg-992561317)
+* 📧 [University Email](mailto:ganchimeg.namuunbayar.s1@dc.tohoku.ac.jp)
+* 📧 [Personal Email](mailto:namuuk3010@gmail.com)
