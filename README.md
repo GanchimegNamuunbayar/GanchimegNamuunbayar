@@ -1,7 +1,3 @@
-Excellent — here’s your updated and polished **GitHub README**, with your internship experience added naturally and written in clear, professional English:
-
----
-
 # 👋 Hi, I'm Namuunbayar Ganchimeg
 
 🎓 **MSc student in GSIS, Tohoku University** | 🧬 Exploring the intersection of **DNA methylation, gene expression, and neuroscience**
