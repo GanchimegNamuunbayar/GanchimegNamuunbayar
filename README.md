@@ -6,36 +6,21 @@
 
 ---
 
-### 🔬 Research Focus
-
-* Investigating **DNA methylation patterns** and **gene regulation** in the hippocampus
-* Using **Nanopore whole-genome sequencing** for long-read methylation analysis
-* Interested in **BDNF gene regulation** and **epigenetic mechanisms** of memory and behavior
-
----
-
 ### 💡 Technical Interests
 
 * Machine Learning & Data Analysis
-* Computational Biology / Epigenomics
+* Computational Biology 
 * Statistics and Modeling
 * Cloud Computing & Workflow Automation
 
 ---
 
-### 🧠 Currently Learning
-
-* Deep Learning for biological sequence analysis
-* Advanced data visualization and reproducibility tools
-
----
-
 ### ⚙️ Tech Stack
 
-**Languages:** Python, Bash, TypeScript
+**Languages:** Python, R, Bash, TypeScript
 **Frameworks:** React.js, Django, Hono
 **Tools:** Jupyter, Git, Docker, VS Code, Cloudflare Workers
-**Bioinformatics:** Nanopore, samtools, bedtools, pycoMeth, pandas
+**Bioinformatics:** Nanopore, samtools, bedtools, DSS, pandas
 
 ---
 
