@@ -24,7 +24,7 @@ Python, FastAPI, React, Docker
 - Improved analysis efficiency by up to 80×
 - Containerized application using Docker
 
-Repository: [[LINK HERE](https://github.com/GanchimegNamuunbayar/methscope)]
+Repository: [[methscope](https://github.com/GanchimegNamuunbayar/methscope)]
 
 ---
 
