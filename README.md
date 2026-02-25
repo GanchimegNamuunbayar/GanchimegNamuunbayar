@@ -1,95 +1,68 @@
-# Hi, I'm Namuunbayar 👋  
-**Software Engineer | Backend & Full-Stack | AI Systems**
+# Hi, I'm Namuunbayar 👋
 
-I'm a Software Engineer and MSc student at Tohoku University, building backend systems, full-stack applications, and AI-powered tools. I focus on designing scalable APIs, automating data pipelines, and deploying production-ready systems.
+Software Engineer and MSc student at Tohoku University.  
+I build backend systems, AI-powered applications, and full-stack tools using Python, TypeScript, React, and Docker.
 
-- Backend: Python, TypeScript, FastAPI, Django, REST APIs  
-- Frontend: React  
-- Cloud & DevOps: Docker, Cloudflare Workers, Linux  
-- Database: PostgreSQL, SQL  
-- Interests: backend architecture, scalable systems, AI-powered developer tools  
+My focus areas include:
 
----
-
-## Featured Projects
-
-### AI Email Generation System (Production)
-**TypeScript, Cloudflare Workers AI, SQL**
-
-- Designed and deployed AI-powered backend system for automated email generation  
-- Built REST API supporting multi-tenant architecture and role-based access  
-- Reduced manual email drafting time by ~70%  
-- Implemented database schema and backend logic for scalable usage  
+- Backend API development
+- Full-stack web applications
+- Cloud deployment and scalable systems
+- AI-powered developer tools and automation
+- Bioinformatics and large-scale data processing
 
 ---
 
-### Nanopore Genome Analysis Platform
-**Python, FastAPI, Docker**
+# Featured Project
 
-- Developed automated pipelines for processing whole-genome sequencing data  
-- Improved analysis speed by up to 80× through workflow automation  
-- Built reproducible and scalable genomic data processing system  
-- Designed backend logic for large-scale data analysis  
+## Nanopore Methylation Visualization Platform
+Python, FastAPI, React, Docker
 
----
+- Developed full-stack web application for genomic data visualization
+- Built REST API backend using FastAPI
+- Implemented automated genomic data processing pipelines
+- Improved analysis efficiency by up to 80×
+- Containerized application using Docker
 
-### Full-Stack Web Application
-**Python, Django, React, PostgreSQL, Docker**
-
-- Designed and implemented REST APIs using Django  
-- Built frontend components using React  
-- Containerized application using Docker for reproducible deployment  
-- Implemented database schema, authentication, and backend logic  
+Repository: [[LINK HERE](https://github.com/GanchimegNamuunbayar/methscope)]
 
 ---
 
-## Technical Skills
+# Tech Stack
 
-**Languages**  
-Python, TypeScript, JavaScript, SQL, Bash, R  
+Languages  
+Python, TypeScript, JavaScript, SQL, Bash
 
-**Backend**  
-FastAPI, Django, REST API design  
+Backend  
+FastAPI, Django, REST APIs
 
-**Frontend**  
-React  
+Frontend  
+React
 
-**Database**  
-PostgreSQL, SQL  
+Cloud & DevOps  
+Docker, Cloudflare Workers, Linux
 
-**Cloud & DevOps**  
-Docker, Cloudflare Workers, Linux  
+Databases  
+PostgreSQL, SQL
 
----
-
-## Experience
-
-**Software Engineer — Emoba Inc. (2025–Present)**  
-- Built production AI-powered backend systems using Cloudflare Workers AI  
-- Designed REST APIs and multi-tenant database architecture  
-- Developed full-stack features using TypeScript, React, and SQL  
-
-**Software Engineer — Otas Inc. (2023–2024)**  
-- Built backend APIs using Django and PostgreSQL  
-- Containerized and deployed applications using Docker  
-- Developed systems supporting LLM-based applications  
-
-**Bioinformatics Engineer — Tohoku University (2025–Present)**  
-- Developed Python pipelines for large-scale genome sequencing analysis  
-- Automated workflows improving processing speed by up to 80×  
-- Built reproducible data processing systems  
+Other  
+Git, API design, automation, data pipelines
 
 ---
 
-## Currently Working On
+# About Me
 
-- Backend systems using FastAPI and TypeScript  
-- AI-powered developer tools  
-- Scalable data processing pipelines  
+- MSc in Information Sciences, Tohoku University
+- Software Engineer with experience building production AI systems
+- Japanese-English bilingual (JLPT N1)
+- Interested in backend engineering, distributed systems, and AI applications
 
 ---
 
-## Links
+# Links
 
-LinkedIn:  
+LinkedIn  
 https://www.linkedin.com/in/namuunbayar-ganchimeg-992561317
+
+Email  
+namuuk3010@gmail.com
