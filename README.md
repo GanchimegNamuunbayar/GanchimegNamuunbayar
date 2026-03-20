@@ -1,15 +1,12 @@
 # Hi, I'm Namuunbayar 👋
 
-Software Engineer and MSc student at Tohoku University.  
-I build backend systems, AI-powered applications, and full-stack tools using Python, TypeScript, React, and Docker.
 
-My focus areas include:
+# About Me
 
-- Backend API development
-- Full-stack web applications
-- Cloud deployment and scalable systems
-- AI-powered developer tools and automation
-- Bioinformatics and large-scale data processing
+- MSc in Information Sciences, Tohoku University
+- Software Engineer with experience building production AI systems
+- Trilingual in Japanese, English, and Mongolian (JLPT N1 certified, IELTS 6.5)
+- Interested in backend engineering, distributed systems, and AI applications
 
 ---
 
@@ -47,15 +44,6 @@ PostgreSQL, SQL
 
 Other  
 Git, API design, automation, data pipelines
-
----
-
-# About Me
-
-- MSc in Information Sciences, Tohoku University
-- Software Engineer with experience building production AI systems
-- Japanese-English bilingual (JLPT N1)
-- Interested in backend engineering, distributed systems, and AI applications
 
 ---
 
