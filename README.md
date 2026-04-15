@@ -53,4 +53,4 @@ LinkedIn
 https://www.linkedin.com/in/namuunbayar-ganchimeg-992561317
 
 Email  
-namuuk3010@gmail.com
+namuunbayar.ganchimeg@gmail.com
